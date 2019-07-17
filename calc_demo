@@ -1,0 +1,4 @@
+#!/home/intern/PycharmProjects/Justbasics/venv/bin/python
+
+from calc_demo import calc_demo
+calc_demo.main()
